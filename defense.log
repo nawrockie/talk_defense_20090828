@@ -1,0 +1,650 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.3.12)  2 SEP 2009 13:30
+entering extended mode
+ %&-line parsing enabled.
+**defense
+(./defense.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/slides.cls
+Document Class: slides 1997/08/15 v2.3z Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/slides.def
+File: slides.def 1997/08/15 v2.3z SLiTeX definitions
+ hacks, slides,
+\c@page=\count79
+ picture, mods,
+\@smashboxa=\box26
+\@smashboxb=\box27
+\@smashboxc=\box28
+
+output, init) (/usr/share/texmf/tex/latex/base/sfonts.def
+File: sfonts.def 1998/06/12 v2.2e Standard LaTeX slide font definitions
+
+(/usr/share/texmf/tex/latex/base/ot1lcmss.fd
+File: ot1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+))
+\c@minutes=\count80
+\c@seconds=\count81
+\c@mv@invisible=\count82
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/n on input line 369.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/it on input line 372.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/n on input line 374.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `invisible'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/In on input line 379.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `invisible'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/Iit on input line 381.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `invisible'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/In on input line 383.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `invisibl
+e'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/In on input line 385.
+)
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gm@cnth=\count83
+\Gm@cntv=\count84
+\c@Gm@tempcnt=\count85
+\Gm@bindingoffset=\dimen102
+\Gm@wd@mp=\dimen103
+\Gm@odd@mp=\dimen104
+\Gm@even@mp=\dimen105
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count86
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf/tex/latex/carlisle/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+(/usr/share/texmf/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (./defense.aux)
+\openout1 = `defense.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+-------------------- Geometry parameters
+paper: class default
+landscape: true
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 5.69046pt, 783.58907pt, 5.69046pt
+v-parts: 5.69046pt, 600.06885pt, 8.53569pt
+hmarginratio: --
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  794.96999pt
+\paperheight 614.295pt
+\textwidth  783.58907pt
+\textheight 600.06885pt
+\oddsidemargin  -66.57953pt
+\evensidemargin -66.57953pt
+\topmargin  -66.57953pt
+\headheight 0.0pt
+\headsep    0.0pt
+\footskip   0.0pt
+\marginparwidth 58.0312pt
+\marginparsep   5.0pt
+\columnsep  10.0pt
+\skip\footins  10.0pt plus 2.0pt minus 4.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+ [1
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<figs/genome-1kb-black.pdf, id=7, 361.47948pt x 289.0579pt>
+File: figs/genome-1kb-black.pdf Graphic file (type pdf)
+
+<use figs/genome-1kb-black.pdf>
+Overfull \vbox (2.66267pt too high) has occurred while \output is active []
+
+
+[2 <./figs/genome-1kb-black.pdf>]
+<figs/genome-1kb.pdf, id=18, 361.47948pt x 289.0579pt>
+File: figs/genome-1kb.pdf Graphic file (type pdf)
+
+<use figs/genome-1kb.pdf>
+Overfull \vbox (2.66267pt too high) has occurred while \output is active []
+
+
+[3 <./figs/genome-1kb.pdf>]
+<figs/genome-10kb.pdf, id=29, 1149.35403pt x 910.58093pt>
+File: figs/genome-10kb.pdf Graphic file (type pdf)
+
+<use figs/genome-10kb.pdf>
+Overfull \vbox (2.66267pt too high) has occurred while \output is active []
+
+
+[4 <./figs/genome-10kb.pdf>]
+<figs/genome-100kb.pdf, id=40, 3614.16238pt x 2890.26799pt>
+File: figs/genome-100kb.pdf Graphic file (type pdf)
+
+<use figs/genome-100kb.pdf>
+Overfull \vbox (2.66267pt too high) has occurred while \output is active []
+
+
+[5 <./figs/genome-100kb.pdf>]
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 91.
+
+ (/usr/share/texmf/tex/latex/base/omllcmm.fd
+File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 91
+.
+
+(/usr/share/texmf/tex/latex/base/omslcmsy.fd
+File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 91
+.
+
+(/usr/share/texmf/tex/latex/base/omxlcmex.fd
+File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <19.907> on input line 91.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <16.59> on input line 91.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <13.82> on input line 91.
+ [6]
+<figs/trna-123.pdf, id=56, 2455.31291pt x 946.81628pt>
+File: figs/trna-123.pdf Graphic file (type pdf)
+ <use figs/trna-123.pdf>
+[7 <./figs/trna-123.pdf
+
+pdfTeX warning: pdflatex (file ./figs/trna-123.pdf): PDF inclusion: Page Group 
+detected which pdfTeX can't handle. Ignoring it.
+>]
+File: figs/trna-123.pdf Graphic file (type pdf)
+ <use figs/trna-123.pdf> [8]
+<figs/seqstructprofiles-seq1.pdf, id=80, 787.40175pt x 477.18777pt>
+File: figs/seqstructprofiles-seq1.pdf Graphic file (type pdf)
+
+<use figs/seqstructprofiles-seq1.pdf> [9 <./figs/seqstructprofiles-seq1.pdf>]
+<figs/seqstructprofiles-struct2.pdf, id=137, 787.40175pt x 510.38179pt>
+File: figs/seqstructprofiles-struct2.pdf Graphic file (type pdf)
+
+<use figs/seqstructprofiles-struct2.pdf> [10 <./figs/seqstructprofiles-struct2.
+pdf>] <figs/avgscores.pdf, id=194, 471.23753pt x 329.71481pt>
+File: figs/avgscores.pdf Graphic file (type pdf)
+
+<use figs/avgscores.pdf> [11 <./figs/avgscores.pdf>]
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <12> on input line 243.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <7> on input line 243.
+
+
+LaTeX Font Warning: Font shape `OT1/lcmss/m/sc' undefined
+(Font)              using `OT1/lcmss/m/n' instead on input line 252.
+
+<figs/hmmer-infernal-refs.pdf, id=226, 401.5pt x 245.91875pt>
+File: figs/hmmer-infernal-refs.pdf Graphic file (type pdf)
+
+<use figs/hmmer-infernal-refs.pdf> [12 <./figs/hmmer-infernal-refs.pdf
+
+pdfTeX warning: pdflatex (file ./figs/hmmer-infernal-refs.pdf): PDF inclusion: 
+Page Group detected which pdfTeX can't handle. Ignoring it.
+>] <figs/hmm.pdf, id=240, 734.71088pt x 603.72548pt>
+File: figs/hmm.pdf Graphic file (type pdf)
+ <use figs/hmm.pdf>
+[13 <./figs/hmm.pdf>] <figs/hmm-given.pdf, id=282, 734.71088pt x 603.72548pt>
+File: figs/hmm-given.pdf Graphic file (type pdf)
+
+<use figs/hmm-given.pdf> [14 <./figs/hmm-given.pdf>]
+<figs/hmm-worm.pdf, id=321, 734.71088pt x 603.72548pt>
+File: figs/hmm-worm.pdf Graphic file (type pdf)
+ <use figs/hmm-worm.pdf>
+[15 <./figs/hmm-worm.pdf>]
+<figs/hmm-corn.pdf, id=358, 737.71913pt x 654.91373pt>
+File: figs/hmm-corn.pdf Graphic file (type pdf)
+ <use figs/hmm-corn.pdf>
+[16 <./figs/hmm-corn.pdf>]
+<figs/cmintro_bandcyk.pdf, id=396, 534.1225pt x 286.34076pt>
+File: figs/cmintro_bandcyk.pdf Graphic file (type pdf)
+
+<use figs/cmintro_bandcyk.pdf>
+<figs/cm-graph-small.pdf, id=397, 158.0826pt x 663.94748pt>
+File: figs/cm-graph-small.pdf Graphic file (type pdf)
+
+<use figs/cm-graph-small.pdf> [17 <./figs/cmintro_bandcyk.pdf> <./figs/cm-graph
+-small.pdf>] [18] [19]
+<figs/defense-roc1.pdf, id=450, 817.0525pt x 516.93124pt>
+File: figs/defense-roc1.pdf Graphic file (type pdf)
+
+<use figs/defense-roc1.pdf> [20 <./figs/defense-roc1.pdf>]
+
+LaTeX Font Warning: Font shape `OT1/lcmss/m/n' in size <6> not available
+(Font)              size <7> substituted on input line 435.
+
+
+LaTeX Font Warning: Font shape `OML/lcmm/m/it' in size <6> not available
+(Font)              size <7> substituted on input line 435.
+
+
+LaTeX Font Warning: Font shape `OMS/lcmsy/m/n' in size <6> not available
+(Font)              size <7> substituted on input line 435.
+
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <8> on input line 435.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <6> on input line 435.
+<figs/defense-roc2.pdf, id=472, 817.0525pt x 516.93124pt>
+File: figs/defense-roc2.pdf Graphic file (type pdf)
+
+<use figs/defense-roc2.pdf> [21 <./figs/defense-roc2.pdf>] [22]
+<figs/wheresloop.pdf, id=497, 833.1125pt x 247.42438pt>
+File: figs/wheresloop.pdf Graphic file (type pdf)
+
+<use figs/wheresloop.pdf> [23 <./figs/wheresloop.pdf
+
+pdfTeX warning: pdflatex (file ./figs/wheresloop.pdf): PDF inclusion: Page Grou
+p detected which pdfTeX can't handle. Ignoring it.
+>]
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <10> on input line 554.
+
+
+pdfTeX warning: pdflatex (file ./figs/qdb.pdf): PDF inclusion: found PDF versio
+n <1.5>, but at most version <1.4> allowed
+<figs/qdb.pdf, id=585, 953.5625pt x 562.1pt>
+File: figs/qdb.pdf Graphic file (type pdf)
+ <use figs/qdb.pdf> [24 <./figs/qdb.pdf>]
+
+pdfTeX warning: pdflatex (file ./figs/qdb-beta.pdf): PDF inclusion: found PDF v
+ersion <1.5>, but at most version <1.4> allowed
+<figs/qdb-beta.pdf, id=606, 579.35544pt x 341.10034pt>
+File: figs/qdb-beta.pdf Graphic file (type pdf)
+ <use figs/qdb-beta.pdf>
+Overfull \vbox (7.54074pt too high) has occurred while \output is active []
+
+
+[25 <./figs/qdb-beta.pdf>]
+<figs/speedup.pdf, id=624, 435.6275pt x 274.29977pt>
+File: figs/speedup.pdf Graphic file (type pdf)
+ <use figs/speedup.pdf>
+[26 <./figs/speedup.pdf>]
+<figs/defense-roc3.pdf, id=655, 817.0525pt x 516.93124pt>
+File: figs/defense-roc3.pdf Graphic file (type pdf)
+
+<use figs/defense-roc3.pdf> [27 <./figs/defense-roc3.pdf>] [28]
+<figs/filter.pdf, id=676, 697.60625pt x 361.35pt>
+File: figs/filter.pdf Graphic file (type pdf)
+ <use figs/filter.pdf>
+[29 <./figs/filter.pdf>]
+<figs/defense-roc4.pdf, id=685, 817.0525pt x 516.93124pt>
+File: figs/defense-roc4.pdf Graphic file (type pdf)
+
+<use figs/defense-roc4.pdf> [30 <./figs/defense-roc4.pdf>]
+<figs/defense-roc5.pdf, id=701, 817.0525pt x 516.93124pt>
+File: figs/defense-roc5.pdf Graphic file (type pdf)
+
+<use figs/defense-roc5.pdf> [31 <./figs/defense-roc5.pdf>] [32]
+<figs/tree-and-aln.pdf, id=719, 570.13pt x 279.0425pt>
+File: figs/tree-and-aln.pdf Graphic file (type pdf)
+
+<use figs/tree-and-aln.pdf> [33 <./figs/tree-and-aln.pdf>]
+Underfull \hbox (badness 1226) in paragraph at lines 844--847
+[]\OT1/lcmss/m/sc/16.59 needed ``\OT1/lcmss/m/sl/16.59 a molecule of ap-pro-pri
+-ately
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 844--847
+\OT1/lcmss/m/sl/16.59 broad dis-tri-bu-tion\OT1/lcmss/m/sc/16.59 '' for com-par
+-a-tive
+ []
+
+<figs/bigtol.pdf, id=770, 435.6275pt x 544.0325pt>
+File: figs/bigtol.pdf Graphic file (type pdf)
+ <use figs/bigtol.pdf>
+Overfull \hbox (7.9866pt too wide) in paragraph at lines 837--867
+$[]$   $[]$ 
+ []
+
+[34 <./figs/bigtol.pdf>]
+<figs/ecoli_16S_man.pdf, id=781, 487.8225pt x 617.30624pt>
+File: figs/ecoli_16S_man.pdf Graphic file (type pdf)
+
+<use figs/ecoli_16S_man.pdf>
+<figs/mvan_16S_man.pdf, id=782, 514.92375pt x 660.4675pt>
+File: figs/mvan_16S_man.pdf Graphic file (type pdf)
+
+<use figs/mvan_16S_man.pdf>
+<figs/zmays_16S_man.pdf, id=783, 566.115pt x 728.7225pt>
+File: figs/zmays_16S_man.pdf Graphic file (type pdf)
+
+<use figs/zmays_16S_man.pdf>
+LaTeX Font Info:    Try loading font information for OT1+lcmtt on input line 89
+6.
+ (/usr/share/texmf/tex/latex/base/ot1lcmtt.fd
+File: ot1lcmtt.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+[35 <./figs/ecoli_16S_man.pdf> <./figs/mvan_16S_man.pdf> <./figs/zmays_16S_man.
+pdf>] <figs/bac_info_heat.pdf, id=821, 614.295pt x 794.97pt>
+File: figs/bac_info_heat.pdf Graphic file (type pdf)
+
+<use figs/bac_info_heat.pdf>
+<figs/arc_info_heat.pdf, id=822, 614.295pt x 794.97pt>
+File: figs/arc_info_heat.pdf Graphic file (type pdf)
+
+<use figs/arc_info_heat.pdf>
+<figs/euk_info_heat.pdf, id=823, 614.295pt x 794.97pt>
+File: figs/euk_info_heat.pdf Graphic file (type pdf)
+
+<use figs/euk_info_heat.pdf> [36 <./figs/bac_info_heat.pdf> <./figs/arc_info_he
+at.pdf> <./figs/euk_info_heat.pdf>]
+<figs/ssu-gb-2009.pdf, id=840, 602.25pt x 301.125pt>
+File: figs/ssu-gb-2009.pdf Graphic file (type pdf)
+
+<use figs/ssu-gb-2009.pdf>
+<figs/environmental.pdf, id=841, 328.22626pt x 651.43375pt>
+File: figs/environmental.pdf Graphic file (type pdf)
+
+<use figs/environmental.pdf>
+Overfull \hbox (1.67809pt too wide) in paragraph at lines 986--988
+[][]
+ []
+
+
+Overfull \vbox (6.601pt too high) has occurred while \output is active []
+
+ [37 <./figs/ssu-gb-2009.pdf> <./figs/environmental.pdf>]
+<figs/ssu_list_and_seq2tree_blackgrey_wredmask.pdf, id=860, 672.5125pt x 562.1p
+t>
+File: figs/ssu_list_and_seq2tree_blackgrey_wredmask.pdf Graphic file (type pdf)
+
+ <use figs/ssu_list_and_seq2tree_blackgrey_wredmask.pdf> [38 <./figs/ssu_list_a
+nd_seq2tree_blackgrey_wredmask.pdf
+
+pdfTeX warning: pdflatex (file ./figs/ssu_list_and_seq2tree_blackgrey_wredmask.
+pdf): PDF inclusion: Page Group detected which pdfTeX can't handle. Ignoring it
+.
+>] <figs/hmm_alignment2_layer1.pdf, id=886, 241.90375pt x 384.43625pt>
+File: figs/hmm_alignment2_layer1.pdf Graphic file (type pdf)
+
+<use figs/hmm_alignment2_layer1.pdf>
+Overfull \vbox (1.72101pt too high) has occurred while \output is active []
+
+
+[39 <./figs/hmm_alignment2_layer1.pdf>]
+<figs/hmm_alignment2_layer2.pdf, id=898, 241.90375pt x 384.43625pt>
+File: figs/hmm_alignment2_layer2.pdf Graphic file (type pdf)
+
+<use figs/hmm_alignment2_layer2.pdf>
+Overfull \vbox (1.72101pt too high) has occurred while \output is active []
+
+
+[40 <./figs/hmm_alignment2_layer2.pdf>]
+<figs/hmm_alignment2_layer3.pdf, id=910, 241.90375pt x 385.44pt>
+File: figs/hmm_alignment2_layer3.pdf Graphic file (type pdf)
+
+<use figs/hmm_alignment2_layer3.pdf>
+Overfull \vbox (1.72101pt too high) has occurred while \output is active []
+
+
+[41 <./figs/hmm_alignment2_layer3.pdf>]
+<figs/post_hmm_to_cm_map2_layer2.pdf, id=922, 669.50125pt x 461.725pt>
+File: figs/post_hmm_to_cm_map2_layer2.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer2.pdf> [42 <./figs/post_hmm_to_cm_map2_layer
+2.pdf>]
+<figs/post_hmm_to_cm_map2_layer10.pdf, id=934, 669.50125pt x 461.725pt>
+File: figs/post_hmm_to_cm_map2_layer10.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer10.pdf> [43 <./figs/post_hmm_to_cm_map2_laye
+r10.pdf>]
+<figs/post_hmm_to_cm_map2_layer11.pdf, id=947, 669.50125pt x 466.74374pt>
+File: figs/post_hmm_to_cm_map2_layer11.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer11.pdf> [44 <./figs/post_hmm_to_cm_map2_laye
+r11.pdf>]
+<figs/post_hmm_to_cm_map2_layer12.pdf, id=959, 669.50125pt x 466.74374pt>
+File: figs/post_hmm_to_cm_map2_layer12.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer12.pdf> [45 <./figs/post_hmm_to_cm_map2_laye
+r12.pdf>]
+<figs/post_hmm_to_cm_map2_layer13.pdf, id=971, 669.50125pt x 467.7475pt>
+File: figs/post_hmm_to_cm_map2_layer13.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer13.pdf> [46 <./figs/post_hmm_to_cm_map2_laye
+r13.pdf>]
+<figs/post_hmm_to_cm_map2_layer14.pdf, id=983, 669.50125pt x 461.725pt>
+File: figs/post_hmm_to_cm_map2_layer14.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer14.pdf> [47 <./figs/post_hmm_to_cm_map2_laye
+r14.pdf>]
+<figs/post_hmm_to_cm_map2_layer15.pdf, id=995, 669.50125pt x 461.725pt>
+File: figs/post_hmm_to_cm_map2_layer15.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer15.pdf> [48 <./figs/post_hmm_to_cm_map2_laye
+r15.pdf>]
+<figs/post_hmm_to_cm_map2_layer16.pdf, id=1007, 669.50125pt x 465.74pt>
+File: figs/post_hmm_to_cm_map2_layer16.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer16.pdf> [49 <./figs/post_hmm_to_cm_map2_laye
+r16.pdf>] <figs/diana_benchmark_l1.pdf, id=1020, 1053.9375pt x 306.14375pt>
+File: figs/diana_benchmark_l1.pdf Graphic file (type pdf)
+
+<use figs/diana_benchmark_l1.pdf> [50 <./figs/diana_benchmark_l1.pdf>]
+<figs/diana_benchmark_l2.pdf, id=1034, 1053.9375pt x 306.14375pt>
+File: figs/diana_benchmark_l2.pdf Graphic file (type pdf)
+
+<use figs/diana_benchmark_l2.pdf> [51 <./figs/diana_benchmark_l2.pdf>] [52]
+[53] <figs/lmph-on-1513.pdf, id=1052, 614.295pt x 794.97pt>
+File: figs/lmph-on-1513.pdf Graphic file (type pdf)
+
+<use figs/lmph-on-1513.pdf> [54 <./figs/lmph-on-1513.pdf>]
+<figs/arc-1.pdf, id=1060, 614.295pt x 794.97pt>
+File: figs/arc-1.pdf Graphic file (type pdf)
+ <use figs/arc-1.pdf> [55 <./figs/arc-1.pdf>] <figs/arc-2.pdf, id=1071, 614.295
+pt x 794.97pt>
+File: figs/arc-2.pdf Graphic file (type pdf)
+
+<use figs/arc-2.pdf> [56 <./figs/arc-2.pdf>]
+<figs/arc-3.pdf, id=1081, 614.295pt x 794.97pt>
+File: figs/arc-3.pdf Graphic file (type pdf)
+ <use figs/arc-3.pdf> [57 <./figs/arc-3.pdf>] <figs/arc-11.pdf, id=1091, 614.29
+5pt x 794.97pt>
+File: figs/arc-11.pdf Graphic file (type pdf)
+
+<use figs/arc-11.pdf> [58 <./figs/arc-11.pdf>]
+<figs/arc-12.pdf, id=1101, 614.295pt x 794.97pt>
+File: figs/arc-12.pdf Graphic file (type pdf)
+ <use figs/arc-12.pdf> [59 <./figs/arc-12.pdf>] <figs/arc-13.pdf, id=1111, 614.
+295pt x 794.97pt>
+File: figs/arc-13.pdf Graphic file (type pdf)
+
+<use figs/arc-13.pdf> [60 <./figs/arc-13.pdf>]
+<figs/arc-14.pdf, id=1121, 614.295pt x 794.97pt>
+File: figs/arc-14.pdf Graphic file (type pdf)
+ <use figs/arc-14.pdf> [61 <./figs/arc-14.pdf>] <figs/arc-15.pdf, id=1132, 614.
+295pt x 794.97pt>
+File: figs/arc-15.pdf Graphic file (type pdf)
+
+<use figs/arc-15.pdf> [62 <./figs/arc-15.pdf>]
+<figs/arc-16.pdf, id=1142, 614.295pt x 794.97pt>
+File: figs/arc-16.pdf Graphic file (type pdf)
+ <use figs/arc-16.pdf> [63 <./figs/arc-16.pdf>] <figs/arc-17.pdf, id=1152, 614.
+295pt x 794.97pt>
+File: figs/arc-17.pdf Graphic file (type pdf)
+
+<use figs/arc-17.pdf> [64 <./figs/arc-17.pdf>]
+<figs/arc-18.pdf, id=1162, 614.295pt x 794.97pt>
+File: figs/arc-18.pdf Graphic file (type pdf)
+ <use figs/arc-18.pdf> [65 <./figs/arc-18.pdf>] <figs/arc-19.pdf, id=1172, 614.
+295pt x 794.97pt>
+File: figs/arc-19.pdf Graphic file (type pdf)
+
+<use figs/arc-19.pdf> [66 <./figs/arc-19.pdf>]
+<figs/arc-22.pdf, id=1182, 614.295pt x 794.97pt>
+File: figs/arc-22.pdf Graphic file (type pdf)
+ <use figs/arc-22.pdf> [67 <./figs/arc-22.pdf>] <figs/arc-23.pdf, id=1193, 614.
+295pt x 794.97pt>
+File: figs/arc-23.pdf Graphic file (type pdf)
+
+<use figs/arc-23.pdf> [68 <./figs/arc-23.pdf>]
+<figs/arc-24.pdf, id=1203, 614.295pt x 794.97pt>
+File: figs/arc-24.pdf Graphic file (type pdf)
+ <use figs/arc-24.pdf> [69 <./figs/arc-24.pdf>] <figs/arc-25.pdf, id=1213, 614.
+295pt x 794.97pt>
+File: figs/arc-25.pdf Graphic file (type pdf)
+
+<use figs/arc-25.pdf> [70 <./figs/arc-25.pdf>]
+File: figs/lmph-on-1513.pdf Graphic file (type pdf)
+ <use figs/lmph-on-1513.pdf>
+[71] <figs/inf-lm.pdf, id=1226, 614.295pt x 794.97pt>
+File: figs/inf-lm.pdf Graphic file (type pdf)
+ <use figs/inf-lm.pdf>
+[72 <./figs/inf-lm.pdf>]
+File: figs/lmph-on-1513.pdf Graphic file (type pdf)
+ <use figs/lmph-on-1513.pdf>
+File: figs/inf-lm.pdf Graphic file (type pdf)
+ <use figs/inf-lm.pdf>
+[73] [74] [75] [76] <figs/ack.pdf, id=1247, 358.12093pt x 316.74736pt>
+File: figs/ack.pdf Graphic file (type pdf)
+
+<use figs/ack.pdf> [77 <./figs/ack.pdf>]
+<figs/mike-dress.pdf, id=1267, 794.97pt x 614.295pt>
+File: figs/mike-dress.pdf Graphic file (type pdf)
+ <use figs/mike-dress.pdf>
+[78 <./figs/mike-dress.pdf>]
+<figs/mike-cake.pdf, id=1278, 794.97pt x 614.295pt>
+File: figs/mike-cake.pdf Graphic file (type pdf)
+ <use figs/mike-cake.pdf>
+Overfull \hbox (2.07509pt too wide) in paragraph at lines 1797--1798
+ [] 
+ []
+
+[79]
+
+Class slides Warning: Slide 79 too long on input line 1798.
+
+
+Overfull \vbox (6.9987pt too high) has occurred while \output is active []
+
+
+[79 <./figs/mike-cake.pdf>]
+<figs/mike-profile.pdf, id=1293, 614.295pt x 794.97pt>
+File: figs/mike-profile.pdf Graphic file (type pdf)
+
+<use figs/mike-profile.pdf>
+Overfull \vbox (6.9987pt too high) has occurred while \output is active []
+
+
+[80 <./figs/mike-profile.pdf>]
+
+LaTeX Font Warning: Font shape `OT1/lcmss/bx/sl' undefined
+(Font)              using `OT1/lcmss/bx/n' instead on input line 1806.
+
+<figs/u8-RF00373-tree.pdf, id=1304, 336.25626pt x 762.85pt>
+File: figs/u8-RF00373-tree.pdf Graphic file (type pdf)
+
+<use figs/u8-RF00373-tree.pdf> [81 <./figs/u8-RF00373-tree.pdf>]
+
+pdfTeX warning: pdflatex (file ./figs/aln-complexity.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<figs/aln-complexity.pdf, id=1396, 780.9175pt x 508.90125pt>
+File: figs/aln-complexity.pdf Graphic file (type pdf)
+
+<use figs/aln-complexity.pdf> [82 <./figs/aln-complexity.pdf>] (./defense.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1492 strings out of 256216
+ 24897 string characters out of 1917072
+ 68913 words of memory out of 1500000
+ 4724 multiletter control sequences out of 10000+200000
+ 12354 words of font info for 43 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 29i,9n,19p,212b,332s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/t
+ype1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb></
+usr/share/texmf/fonts/type1/bluesky/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/
+bluesky/latex-fonts/lcmss8.pfb></usr/share/texmf/fonts/type1/bluesky/latex-font
+s/lcmssb8.pfb></usr/share/texmf/fonts/type1/bluesky/latex-fonts/lcmssi8.pfb>
+Output written on defense.pdf (83 pages, 33297649 bytes).
+PDF statistics:
+ 1443 PDF objects out of 1728 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+
